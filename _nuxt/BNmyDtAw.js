@@ -1,0 +1,1 @@
+import{x as n,a5 as s,c,o,i as a}from"#entry";const p=["innerHTML"],x={__name:"RichText",props:{text:{type:Object,required:!0}},setup(e){const t=e,r=n(()=>s(t.text));return(i,_)=>(o(),c("span",{class:"rich-text",innerHTML:a(r)},null,8,p))}};export{x as _};
