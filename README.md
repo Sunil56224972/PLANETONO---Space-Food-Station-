@@ -4,7 +4,7 @@ Welcome to the **Planetoño** landing page! This is a highly interactive, scroll
 
 ## 🚀 Live Demo
 
-Check out the live interactive experience here: **[The Drawn Dimension](https://planeteno-food-station.sunilnathyogi008.workers.dev/)**
+Check out the live interactive experience here: **[The Space Food Station](https://planeteno-food-station.sunilnathyogi008.workers.dev/)**
 
 ## ✨ Key Features
 
