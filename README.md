@@ -1,6 +1,6 @@
 # Planetoño - The Space Food Station 🪐
 
-Welcome to the **Planetoño** landing page! This is a highly interactive, scroll-driven, 3D and WebGL-powered web experience designed to showcase an immersive, premium, and futuristic food service concept.
+Welcome to the **Planetoño** landing page! This is a highly interactive, scroll-driven, 3D and WebGL-powered web experience designed to showcase an immersive, premium, and futuristic food service concept with fancy japanese text.
 
 ## 🚀 Live Demo
 
